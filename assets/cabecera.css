@@ -1,0 +1,35 @@
+.cabecera {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px 0;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav li{
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: normal;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif; 
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  li:hover a {
+    font-weight: bold;
+  }

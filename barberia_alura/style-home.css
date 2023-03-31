@@ -1,0 +1,56 @@
+.principal{
+    background-color: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+em strong{
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.diferenciales{
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
+.boton-volver{
+    padding: 20px;
+    margin: 10px;
+}
