@@ -106,15 +106,6 @@
     height: 200px;
 }
 
-.box__contacto__mail > p {
-    display: inline;
-}
-
-#miEmail:hover {
-    text-decoration: underline;
-    font-weight: bold;
-    cursor: pointer;
-}
 /* boton top */
 #btn-back-to-top {
     position: fixed;
