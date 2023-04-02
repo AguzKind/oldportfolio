@@ -29,6 +29,8 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    text-align: center;
+    margin-right: 2rem;
   }
   li:hover a {
     font-weight: bold;
