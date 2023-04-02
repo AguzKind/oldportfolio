@@ -30,7 +30,10 @@ nav ul {
     display: flex;
     justify-content: center;
     text-align: center;
+<<<<<<< HEAD
     margin-right: 2rem;
+=======
+>>>>>>> b56128c6844dd7cd51bca6776a703617592b2deb
   }
   li:hover a {
     font-weight: bold;
