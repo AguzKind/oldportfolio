@@ -1,6 +1,6 @@
 # Mi portfolio!
 
-Podes acceder al mismo desde este mismo ([link!](https://aguzkind.github.io/))
+Podes acceder al sitio haciendo click en el siguiente [link!](https://aguzkind.github.io/)
 
 Realizado el 31/03/2023.
 
