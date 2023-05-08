@@ -2,11 +2,39 @@ html {
     scroll-behavior: smooth;
 }
 
+.boxes, .box__lenguajes, .texto__proyectos, .intro > p:first-child {
+    padding: 2rem 2rem 2rem 2rem;
+}
+
+.boxes__contacto {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2rem;
+}
+
+.box__redes {
+    display: flex;
+    flex-direction: column;
+}
+
+.box__contacto__mail {
+    padding-left: 3rem;
+    padding-bottom: 3rem;
+}
+
+main {
+    margin-bottom: 202px;
+}
+
+.estudios > p:first-child, .empleos > p:first-child, .imagenes__lenguajes > p:first-child, .contacto > p:first-child{
+    padding-top: 2rem;
+    font-size: 3rem;
+}
+
 .intro, .texto__proyectos, .imagenes__lenguajes , .empleos, .estudios, .contacto{
     background-color: rgba(255,255,255,0.6);
     margin: 3rem;
     border-radius:10px;
-    flex: 100%;
 }
 
 .imagenes__lenguajes > p , .empleos, .estudios, .contacto{
@@ -46,15 +74,16 @@ html {
     font-weight: 1000;
 }
 
-.persona > p {
+.persona__info {
     font-family: 'Poppins', sans-serif; 
     font-weight: 1000;
     font-size: 1.5rem;
     text-align:left;
+    padding: 3rem;
 }
 .foto__intro {
     display: flex;
-    margin-bottom: 4rem;
+    padding: 3rem;
     justify-content: space-between;
     flex-wrap: wrap;
     flex-direction: row;
