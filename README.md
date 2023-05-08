@@ -13,3 +13,4 @@ este dia.
 
 **Proximas Actualizaciones**
 - Responsive
+- Mejorar el box de contacto
