@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .intro, .texto__proyectos, .imagenes__lenguajes , .empleos, .estudios, .contacto{
     background-color: rgba(255,255,255,0.6);
     margin: 3rem;
