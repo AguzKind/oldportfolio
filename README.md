@@ -4,7 +4,7 @@ Podes acceder al sitio haciendo click en el siguiente [link!](https://aguzkind.g
 
 Realizado el 31/03/2023.
 
-**Ultima vez editado: 10/05/2023.**
+**Ultima vez editado: 09/07/2023.**
 
 Portfolio personal, realizado en _HTML, CSS, Javascript Vanilla y Bootstrap 5_.
 
@@ -12,5 +12,5 @@ Primera vez que realizo un proyecto tan grande de tipo front-end y en tan poco t
 este dia.
 
 **Proximas Actualizaciones**
-- Responsive
-- Ordenar CSS
+- Re-build en React
+- Uso de TailwindCSS
