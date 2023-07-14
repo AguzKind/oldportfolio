@@ -4,7 +4,7 @@ Podes acceder al sitio haciendo click en el siguiente [link!](https://aguzkind.g
 
 Realizado el 31/03/2023.
 
-**Ultima vez editado: 09/07/2023.**
+**Ultima vez editado: 14/07/2023.**
 
 Portfolio personal, realizado en _HTML, CSS, Javascript Vanilla y Bootstrap 5_.
 
